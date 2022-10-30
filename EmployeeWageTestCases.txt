@@ -1,0 +1,30 @@
+                             EMPLOYEE WAGE TEST CASES
+
+TEST CASE 1
+
+the wage recieved is 2000
+
+Process finished with exit code 0
+
+
+TEST CASE 2
+
+the wage recieved is 1440
+
+Process finished with exit code 0
+
+
+TEST CASE 3
+
+the wage recieved is 2000
+
+Process finished with exit code 0
+
+
+
+TEST CASE 4
+
+the wage recieved is 1760
+
+Process finished with exit code 0
+
