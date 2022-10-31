@@ -1,4 +1,4 @@
-ackage EmployeeWageComputation;
+package EmployeeWageComputation;
 public class employee_Hours {
     public static void main(String[] args){
 
